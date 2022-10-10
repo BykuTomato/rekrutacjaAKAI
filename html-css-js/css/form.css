@@ -1,5 +1,6 @@
 html {
   background-image: linear-gradient(120deg, rgb(156, 223, 125), rgb(78, 207, 227), rgb(37, 89, 234));
+    background-repeat: no-repeat;
 }
 
 body {
